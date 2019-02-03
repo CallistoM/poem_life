@@ -1,0 +1,10 @@
+[package]
+name = "poem_life"
+version = "0.1.0"
+authors = ["mike van verseveld"]
+edition = "2018"
+
+[dependencies]
+log = "0.4"
+chrono = "*"
+env_logger = "*"
